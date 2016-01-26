@@ -9,6 +9,9 @@ sc - cli spreadcheat - http://www.linuxjournal.com/article/10699?page=0,0
 sshutle - poor man's VPN - https://github.com/apenwarr/sshuttle
 z - jump around paths - https://github.com/rupa/z
 
+Programming frameworks:
+flask - python web server - http://flask.pocoo.org/
+
 External Websites:
 let's encrypt - get https certificates - https://letsencrypt.org/ 
 sphinx - Generate documentation - http://www.sphinx-doc.org/en/stable/
