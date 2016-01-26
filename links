@@ -1,0 +1,30 @@
+There are some links that are worth to be shared
+
+Programs:
+rockstor - Personal Cloud Server (NAS)- http://rockstor.com/NAS
+
+
+Commands:
+sc - cli spreadcheat - http://www.linuxjournal.com/article/10699?page=0,0
+sshutle - poor man's VPN - https://github.com/apenwarr/sshuttle
+z - jump around paths - https://github.com/rupa/z
+
+External Websites:
+let's encrypt - get https certificates - https://letsencrypt.org/ 
+sphinx - Generate documentation - http://www.sphinx-doc.org/en/stable/
+vagrant - ready to use OSes - http://www.vagrantbox.es/
+tarsnap - cheap backups - https://www.tarsnap.com/index.html
+explain shell - get to know all commands - http://explainshell.com/
+
+Browser extensions:
+Vimium (chrome); Vimfx (Firefox/iceweasel)
+
+
+Cheat sheets:
+git cheat sheet - http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+tmux cheat sheet - https://gist.github.com/MohamedAlaa/2961058
+
+
+Random tips:
+vim tips - http://rayninfo.co.uk/vimtips.html
+awesome sysadmin - sysadmin must known tools -  https://github.com/kahun/awesome-sysadmin
