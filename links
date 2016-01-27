@@ -31,3 +31,4 @@ tmux cheat sheet - https://gist.github.com/MohamedAlaa/2961058
 Random tips:
 vim tips - http://rayninfo.co.uk/vimtips.html
 awesome sysadmin - sysadmin must known tools -  https://github.com/kahun/awesome-sysadmin
+tmux-resurrect - save tmux sessions - https://github.com/tmux-plugins/tmux-resurrect
