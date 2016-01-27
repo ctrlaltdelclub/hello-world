@@ -32,3 +32,4 @@ Random tips:
 vim tips - http://rayninfo.co.uk/vimtips.html
 awesome sysadmin - sysadmin must known tools -  https://github.com/kahun/awesome-sysadmin
 tmux-resurrect - save tmux sessions - https://github.com/tmux-plugins/tmux-resurrect
+tmux-continuum - automatically save and restore any tmux session - https://github.com/tmux-plugins/tmux-continuum
