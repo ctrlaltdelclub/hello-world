@@ -1,0 +1,52 @@
+There are some links that are worth to be shared
+
+Programs:
+rockstor - Personal Cloud Server (NAS)- http://rockstor.com/NAS
+
+
+Commands:
+sc - cli spreadcheat - http://www.linuxjournal.com/article/10699?page=0,0
+sshutle - poor man's VPN - https://github.com/apenwarr/sshuttle
+z - jump around paths - https://github.com/rupa/z
+
+Programming frameworks:
+flask - python web server - http://flask.pocoo.org/
+
+External Websites:
+let's encrypt - get https certificates - https://letsencrypt.org/ 
+sphinx - Generate documentation - http://www.sphinx-doc.org/en/stable/
+vagrant - ready to use OSes - http://www.vagrantbox.es/
+tarsnap - cheap backups - https://www.tarsnap.com/index.html
+explain shell - get to know all commands - http://explainshell.com/
+
+Browser extensions:
+Vimium (chrome); Vimfx (Firefox/iceweasel)
+
+
+Cheat sheets:
+git cheat sheet - http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+tmux cheat sheet - https://gist.github.com/MohamedAlaa/2961058
+
+
+Random tips:
+vim tips - http://rayninfo.co.uk/vimtips.html
+awesome sysadmin - sysadmin must known tools -  https://github.com/kahun/awesome-sysadmin
+tpm - tmux plugin manager - https://github.com/tmux-plugins/tpm
+tmux-resurrect - save tmux sessions - https://github.com/tmux-plugins/tmux-resurrect
+tmux-continuum - automatically save and restore any tmux session - https://github.com/tmux-plugins/tmux-continuum
+
+vimawesome - vim tuts - http://vimawesome.com/
+ultimate vim distribuition - vim plugins - http://vim.spf13.com/
+vim repo - https://github.com/amix/vimrc
+
+
+Social networks:
+Youtube:
+Bryan Lunduke - https://www.youtube.com/channel/UCkK9UDm_ZNrq_rIXCz3xCGA
+DEFCON conference - https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
+How to Tech Channel - https://www.youtube.com/channel/UCMFesVDDsrbWPzUPWhBMtZw
+Joe Collins - https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA
+Tek Linux - https://www.youtube.com/channel/UCOWcZ6Wicl-1N34H0zZe38w
+
+Twitter:
+
